@@ -64,6 +64,9 @@ box-sizing: border-box;
 .cartao__conteudo__resposta{
   transform: rotateY(180deg);
 }
+.cartao__conteudo__pergunta img{
+  width: 15%;
+}
 footer {
   background-color: black;
   color: white;
