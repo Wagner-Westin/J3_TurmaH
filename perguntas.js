@@ -1,6 +1,7 @@
 criaCartao(
     'Programação',
     'O é Python?',
+    'python.png',
     'O Python é uma linguagem de programação.'
 )
 criaCartao(
